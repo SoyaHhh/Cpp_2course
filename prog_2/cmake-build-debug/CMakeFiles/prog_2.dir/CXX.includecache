@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aubak/CLionProjects/prog_2/Iterator.cpp
+Iterator.h
+C:/Users/aubak/CLionProjects/prog_2/Iterator.h
+exception
+C:/Users/aubak/CLionProjects/prog_2/exception
+
+C:/Users/aubak/CLionProjects/prog_2/Iterator.h
+RingBuffer.h
+C:/Users/aubak/CLionProjects/prog_2/RingBuffer.h
+
+C:/Users/aubak/CLionProjects/prog_2/RingBuffer.cpp
+exception
+C:/Users/aubak/CLionProjects/prog_2/exception
+RingBuffer.h
+C:/Users/aubak/CLionProjects/prog_2/RingBuffer.h
+
+C:/Users/aubak/CLionProjects/prog_2/RingBuffer.h
+
+C:/Users/aubak/CLionProjects/prog_2/main.cpp
+iostream
+-
+RingBuffer.h
+C:/Users/aubak/CLionProjects/prog_2/RingBuffer.h
+RingBuffer.cpp
+C:/Users/aubak/CLionProjects/prog_2/RingBuffer.cpp
+Iterator.h
+C:/Users/aubak/CLionProjects/prog_2/Iterator.h
+Iterator.cpp
+C:/Users/aubak/CLionProjects/prog_2/Iterator.cpp
+
