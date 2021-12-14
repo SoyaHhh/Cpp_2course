@@ -1,0 +1,3 @@
+C:/Users/aubak/CLionProjects/prog_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/aubak/CLionProjects/prog_5/cmake-build-debug/CMakeFiles/prog_05.dir
+C:/Users/aubak/CLionProjects/prog_5/cmake-build-debug/CMakeFiles/edit_cache.dir

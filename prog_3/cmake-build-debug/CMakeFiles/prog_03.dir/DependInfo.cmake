@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/aubak/CLionProjects/prog_03/LinkedList.cpp" "C:/Users/aubak/CLionProjects/prog_03/cmake-build-debug/CMakeFiles/prog_03.dir/LinkedList.cpp.obj"
-  "C:/Users/aubak/CLionProjects/prog_03/main.cpp" "C:/Users/aubak/CLionProjects/prog_03/cmake-build-debug/CMakeFiles/prog_03.dir/main.cpp.obj"
+  "C:/Users/aubak/Documents/Cpp_2course/prog_3/LinkedList.cpp" "C:/Users/aubak/Documents/Cpp_2course/prog_3/cmake-build-debug/CMakeFiles/prog_03.dir/LinkedList.cpp.obj"
+  "C:/Users/aubak/Documents/Cpp_2course/prog_3/main.cpp" "C:/Users/aubak/Documents/Cpp_2course/prog_3/cmake-build-debug/CMakeFiles/prog_03.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
